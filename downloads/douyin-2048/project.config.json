@@ -1,0 +1,10 @@
+{
+  "appid": "tt9d2ceb91034fda2f02",
+  "projectname": "2048",
+  "compileType": "game",
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "autoCompile": true
+  }
+}
